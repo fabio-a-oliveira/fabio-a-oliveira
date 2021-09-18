@@ -1,6 +1,6 @@
 Hi! Fabio here.
 
-An Electrical Engineer with a background in the Automotive and Aerospace industries. Currently delving into Data Science and Machine Learning.
+An Electrical Engineer with a background in the Automotive and Aerospace industries. Currently working with Data Science and Machine Learning in the financial sector.
 
 I write code mainly in Python, but also have some experience with R and Matlab/Simulink and know some SQL and HTML.
 
